@@ -2,6 +2,9 @@
 @import "compass/css3";
 @import "compass/reset";
 
+// Import animation files
+@import "animation.scss";
+
 // Import core files in this order
 @import "config.scss";
 @import "utilities.scss";
