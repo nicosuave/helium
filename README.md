@@ -22,6 +22,10 @@ By default, Helium uses a fixed-width layout. However, making it responsive is a
 
 	<body class="responsive">
 
+## Added limited animate.css classes
+
+To use, add the class `animated` to an element, along with classes `flash` or `shake`.
+
 ## Sass Variables
 
 There are three Sass variables that will determine the makeup of your grid. As with nearly every other variable in Helium, these are stored in `scss/config.scss`
